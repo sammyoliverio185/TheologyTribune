@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+
+body {
+    height: 100vh;
+    background-color: lightblue;
+}
+
+.titleDiv {
+    display: flex;
+    border-style: solid;
+    border-top: #ffffff;
+    border-left: #ffffff;
+    border-right: #ffffff;
+    border-color: black;
+    border-width: 3px;
+    height: 55px;
+}
+
+.TheoHypr {
+    background-color: black;
+    color: white;
+  }
+  
+  .TribHypr {
+    color: black;
+  }
+
+.theologySpan {
+    background-color: black;
+    color: white;
+}
+
+.spanLabel {
+    font-size: 36px;
+    font-family: Oswald;
+}
+
+.interviewBody {
+    font-family: Roboto;
+    line-height: 36px;
+}
+
+.title {
+    font-family: Oswald;
+    font-size: 36px;
+    text-decoration: underline;  
+}
+
+.jesusApp {
+    height: 25%;
+    width: 25%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    padding: 10px 10px;
+}
+
+.pic1div {
+    margin-left: 100px;
+}

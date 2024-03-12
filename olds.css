@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+    height: 100vh;
+    background-color: lightblue;
+}
+
+.titleDiv {
+    display: flex;
+    border-style: solid;
+    border-top: #ffffff;
+    border-left: #ffffff;
+    border-right: #ffffff;
+    border-color: black;
+    border-width: 3px;
+    height: 55px;
+}
+
+.TheoHypr {
+    background-color: black;
+    color: white;
+  }
+  
+  .TribHypr {
+    color: black;
+  }
+
+.theologySpan {
+    background-color: black;
+    color: white;
+}
+
+.spanLabel {
+    font-size: 36px;
+    font-family: Oswald;
+}
+
+.sixImageWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.basil, .alphonsus, .jose, .badano, .joan, .carlo {
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    padding: 10px 10px;
+}
+
+.basil {
+    height: 20%;
+    width: 20%;
+    margin-top: 30px;
+}
+
+.alphonsus {
+    height: 15%;
+    width: 25%;
+    margin-top: 30px;
+}
+
+.augustine {
+    height: 50%;
+    width: 40%;
+    margin-top: 30px;
+}
+
+.joan {
+    width: 25%;
+    margin-top: 20px;
+}
+
+.jose {
+    width: 25%;
+    margin-top: 20px;
+}
+
+.badano {
+    width: 26%;
+    margin-top: 20px;
+}
